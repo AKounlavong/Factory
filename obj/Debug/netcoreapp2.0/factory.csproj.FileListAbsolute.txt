@@ -1,0 +1,11 @@
+C:\Users\AL\Desktop\C languages\factory\bin\Debug\netcoreapp2.0\factory.deps.json
+C:\Users\AL\Desktop\C languages\factory\bin\Debug\netcoreapp2.0\factory.runtimeconfig.json
+C:\Users\AL\Desktop\C languages\factory\bin\Debug\netcoreapp2.0\factory.runtimeconfig.dev.json
+C:\Users\AL\Desktop\C languages\factory\bin\Debug\netcoreapp2.0\factory.dll
+C:\Users\AL\Desktop\C languages\factory\bin\Debug\netcoreapp2.0\factory.pdb
+C:\Users\AL\Desktop\C languages\factory\obj\Debug\netcoreapp2.0\factory.csprojAssemblyReference.cache
+C:\Users\AL\Desktop\C languages\factory\obj\Debug\netcoreapp2.0\factory.csproj.CoreCompileInputs.cache
+C:\Users\AL\Desktop\C languages\factory\obj\Debug\netcoreapp2.0\factory.AssemblyInfoInputs.cache
+C:\Users\AL\Desktop\C languages\factory\obj\Debug\netcoreapp2.0\factory.AssemblyInfo.cs
+C:\Users\AL\Desktop\C languages\factory\obj\Debug\netcoreapp2.0\factory.dll
+C:\Users\AL\Desktop\C languages\factory\obj\Debug\netcoreapp2.0\factory.pdb
